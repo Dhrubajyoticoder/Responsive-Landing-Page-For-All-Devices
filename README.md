@@ -1,5 +1,5 @@
 # Responsive-Landing-Page-For-All-Devices
-Welcome to our responsive landing page project! This page is designed to look great on all kinds of devices, from large desktop screens to mobile phones. We’ve used CSS media queries to ensure that the layout adjusts dynamically based on the screen size.
+Welcome to my responsive landing page project! This page is designed to look great on all kinds of devices, from large desktop screens to mobile phones. We’ve used CSS media queries to ensure that the layout adjusts dynamically based on the screen size.
 
 Features
 Responsive Design: The layout smoothly adapts to different screen widths.
@@ -14,8 +14,8 @@ Explore the responsive design by resizing your browser window or testing on diff
 Usage
 Feel free to customize this landing page for your own projects. Replace the placeholder content with your own text, images, and branding. Modify the CSS rules in styles.css to match your desired design.
 
-Contributing
-We welcome contributions! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+Contributing!
+welcome contributions! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
 Credits
 Designed and developed by Dhrubo
